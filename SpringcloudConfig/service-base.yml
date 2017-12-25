@@ -1,0 +1,4 @@
+server:
+  port: 1111
+
+foo: foo version 3222222222
