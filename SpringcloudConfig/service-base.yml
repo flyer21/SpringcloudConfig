@@ -1,5 +1,5 @@
 server:
-  port: 1111
+  port: 1000
 management:
   port: 2222
 foo: foo version 3222222222
